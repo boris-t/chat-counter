@@ -1,10 +1,9 @@
-# Mikhail Counter
+# Chat Counter
 
-It's a simple app that displays the number of times I've been called **Mikhail**.
+
 
 ## Stack
 
-- [Fly.io](https://fly.io/)
 - [Remix](https://remix.run/docs/)
 - [GitHub Actions](https://github.com/features/actions)
 - [Prisma](https://www.prisma.io/)
